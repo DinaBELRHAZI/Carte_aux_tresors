@@ -21,17 +21,17 @@ Vous devez réaliser un système permettant de suivre les déplacements et les c
 
 ## Présentation de la consigne
 
-### Lire le fichier d’entrée
+### 1. Lire le fichier d’entrée
 
 Le programme doit être capable de lire le fichier d’entrée de l’exercice.
 
 Note : une ligne débutant par un ‘#’ est un commentaire et doit être ignorée.
 
-### Simuler les mouvements des aventuriers
+### 2. Simuler les mouvements des aventuriers
 
 Le programme doit être capable d’exécuter les mouvements des différents aventuriers en respectant les contraintes de l’exercice, de gérer la collecte des trésors et de restituer le résultat final de la simulation.
 
-### Ecrire le fichier de sortie
+### 3. Ecrire le fichier de sortie
 
 Le programme doit être capable d’écrire un fichier contenant le résultat final de la simulation.
 
